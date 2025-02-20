@@ -40,7 +40,6 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 * 2024 CAS President Scholarship (Special Prize) (中科院院长特别奖, 1/1500)
 * 2022 National Scholarship
-* 2020, 2021 First Prize in Academic Scholarship in UCAS
 * 2020, 2021 UCAS Merit Student
 * 2020 DAC Young Fellow Best Poster Award
 * 2020 DAC Young Fellowship
