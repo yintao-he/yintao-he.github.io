@@ -6,7 +6,11 @@ layout: default
 
 <img class="profile-picture" src="yintao.jpg">
 
-Hi! I am Yintao He (何银涛), a 6th year Ph.D Student at UCAS, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). Currently, I am a visiting PhD student at ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
+Hi! I am Yintao He (何银涛). I am a Postdoctoral Associate at Duke University, working with Prof. [Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and Prof. [Hai (Helen) Li](https://cei.pratt.duke.edu/people/hai-helen-li). 
+
+I obtained my Ph.D. at the Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). I was a visiting PhD researcher at the Department of Information Technology and Electrical Engineering, ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
+
+I have been awarded the Special Prize of President Scholarship of the Chinese Academy of Sciences (CAS), which is known as the highest award for postgraduate students in CAS.
 
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
@@ -38,7 +42,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Honors and Awards
 
-* 2024 CAS President Scholarship (Special Prize) (中科院院长特别奖, 1/1500)
+* 2024 Special Prize of President Scholarship of the Chinese Academy of Sciences (中科院院长特别奖, the highest award for graduate students in CAS)
 * 2022 National Scholarship
 * 2020, 2021 UCAS Merit Student
 * 2020 DAC Young Fellow Best Poster Award
