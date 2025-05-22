@@ -16,7 +16,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 
 ## Education
-* Sep. 2019 - Present: **University of Chinese Academy of Sciences**
+* Sep. 2019 - Jan. 2025: **University of Chinese Academy of Sciences**
 
    Ph.D Student in Computer Systems and Architecure
 
