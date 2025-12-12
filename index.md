@@ -52,7 +52,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Services
 
-* Reviewer: IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. ETC, ACM Trans. DAES, ITC 2023, ITC 2024
+* Reviewer: IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. ETC, ACM Trans. DAES, ITC 2023, ITC 2024, ISCAS 2026
 
 ---
 
