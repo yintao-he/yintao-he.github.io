@@ -41,7 +41,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Honors and Awards
 
-* 2024 Special Prize of President Scholarship of the Chinese Academy of Sciences (中科院院长特别奖, the highest award for graduate students in CAS)
+* 2024 Special Prize of President Scholarship of the Chinese Academy of Sciences (中科院院长特别奖)
 * 2022 National Scholarship
 * 2022 Director's Special Scholarship in the Institute of Computing Technology, Chinese Academy of Sciences
 * 2020, 2021 UCAS Merit Student
