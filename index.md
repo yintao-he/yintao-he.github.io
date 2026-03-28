@@ -20,6 +20,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 
 ## Publications
+- **[ISCA'26]** Xueying Wu, Baijun Zhou, Zhihui Gao, Yuzhe Fu, Qilin Zheng, **Yintao He\***, Hai Li, "OASIS: Outlier-Aware LUT-Based GEMM with Dual-Side Quantization for LLM Inference Acceleration", in International Symposium on Computer Architecture, 2026.
 - **[ASPLOS'25] Yintao He**, Haiyu Mao, Christina Giannoula, Mohammad Sadrosadati, Juan Gómez-Luna, Huawei Li, Xiaowei Li, Ying Wang, Onur Mutlu, "PAPI: Exploiting Dynamic Parallelism in Large Language Model Decoding with a Processing-In-Memory-Enabled Computing System", in International Conference on Architectural Support for Programming Languages and Operating Systems, 2025.
 - **[TCAD] Yintao He**, Bing Li, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "A Task-Adaptive in-situ ReRAM Computing for Graph Convolutional Networks", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/10463614)
 - **[DATE'24] Yintao He**, Shixin Zhao, Songyun Qu, Huawei Li, Xiaowei Li, Ying Wang, "Bit-Trimmer: Ineffectual Bit-operation Removal for CIM Architecture," in Design, Automation and Test in Europe Conference, 2024.
@@ -51,7 +52,10 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 
 ## Services
 
-* Reviewer: IEEE Trans. Computers, IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. ETC, ACM Trans. DAES, ITC 2023, ITC 2024, ISCAS 2026
+* Conference:
+  - MICRO 2026 Technical Program Committee
+  - ITC 2023, ITC 2024, ISCAS 2026 Reviewer
+* Journal: IEEE Trans. Computers, IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. ETC, ACM Trans. DAES
 
 ---
 
