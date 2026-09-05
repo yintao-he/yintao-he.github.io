@@ -58,7 +58,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 * Conference:
   - MICRO 2026 Technical Program Committee
   - ITC 2023, ITC 2024, ISCAS 2026 Reviewer
-* Journal: IEEE Trans. Computers, IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. ETC, ACM Trans. DAES
+* Journal: IEEE Trans. Computers, IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. PAMI, IEEE Trans. ETC, ACM Trans. DAES, IEEE Software
 
 ---
 
