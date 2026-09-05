@@ -48,7 +48,6 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 * 2024 Special Prize of President Scholarship of the Chinese Academy of Sciences (中科院院长特别奖)
 * 2022 National Scholarship
 * 2022 Director's Special Scholarship in the Institute of Computing Technology, Chinese Academy of Sciences
-* 2020, 2021 UCAS Merit Student
 * 2020 DAC Young Fellow Best Poster Award
 * 2020 DAC Young Fellowship
 * 2019 Outstanding Graduation Thesis (Top 5 in the department)
