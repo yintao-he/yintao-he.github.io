@@ -15,6 +15,7 @@ I obtained my Ph.D. at the Institute of Computing Technology, Chinese Academy of
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
 ## News
+- 2026.07: 🎉One paper was conditionally accepted to **ASPLOS 2027**.
 - 2026.03: 🎉One paper was accepected to **ISCA 2026**.
 - 2026.02: 🎉Two papers were accepected to **DAC 2026**.
 - 2026.01: 🎉One paper was accepted to **ICLR 2026**.
@@ -32,6 +33,7 @@ Know more about me: [Google scholar](https://scholar.google.com/citations?user=a
 - **[DAC'21] Yintao He**, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning," in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(CCF-A, Acceptance Rate: 215/916 = 23.5%) [\[paper\]](https://ieeexplore.ieee.org/document/9586193)
 - **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, "Towards State-Aware Computation in ReRAM Neural Networks," in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A, Acceptance Rate: 228/991=23.0%) [\[paper\]](https://ieeexplore.ieee.org/document/9218729) [\[code\]](https://github.com/wangying-ict/BWN_Shift)
 - **[ICCAD'19] Yintao He**, Ying Wang, Yongchen Wang, Huawei Li, Xiaowei Li, "An Agile Precision-Tunable CNN Accelerator based on ReRAM," in IEEE/ACM International Conference On Computer Aided Design, 2019.(CCF-B, Acceptance Rate: 94/394=23.8%) [\[paper\]](https://ieeexplore.ieee.org/document/8942163)
+- **[ASPLOS'27]** Haoxuan Shan, Cong Guo, Bowen Duan, Chiyue Wei, Feng Cheng, Yuzhe Fu, **Yintao He**, Hai “Helen” Li, Yiran Chen, "Vortex: Bridging Extreme Compression and Efficient LLM Inference," in ACM International Conference on Architectural Support for Programming Languages and Operating Systems, 2027.
 - **[DAC'26]** Juhong Park, **Yintao He**, Sangheum Yeon, Yiran Chen and Jong Hwan Ko, "REFLEX: Rewrite-Free Row-Aligned Sparse Attention for Efficient LLM Execution on PIM," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2026.(CCF-A)
 - **[DAC'26]** Yudong Pan, **Yintao He**, Tianhua Han, Lian Liu, Shixin Zhao, Zhirong Chen, Mengdi Wang, Cangyuan Li, Yinhe Han and Ying Wang, "TriMoE: Augmenting GPU with AMX-Enabled CPU and DIMM-NDP for High-Throughput MoE Inference via Offloading," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2026.(CCF-A)  
 - **[ICLR'26]** Xinhua Chen, Sitao Huang, Cong Guo, Chiyue Wei, Yintao He, Jianyi Zhang, Hai “Helen” Li, Yiran Chen, "DPad: Efficient Diffusion Language Models with Suffix Dropout," in International Conference on Learning Representations, 2026.
