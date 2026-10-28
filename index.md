@@ -64,7 +64,7 @@ Mengdi Wang, Yinhe Han, Ying Wang, "CIMAS: Towards Automatic CIM-based ASIP Gene
   - DAC 2027 Technical Program Committee
   - MICRO 2026 Technical Program Committee
   - ITC 2023, ITC 2024, ISCAS 2026 Reviewer
-* Journal: IEEE Trans. Computers, IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. PAMI, IEEE Trans. ETC, Trans. DSC, ACM Trans. DAES, IEEE Software
+* Journal: IEEE Trans. Computers, IEEE Trans. CAD, IEEE Trans. PDS, IEEE Trans. PAMI, IEEE Trans. ETC, IEEE Trans. DSC, ACM Trans. DAES, IEEE Software
 
 ---
 
