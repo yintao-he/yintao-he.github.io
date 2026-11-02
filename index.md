@@ -15,15 +15,15 @@ I obtained my Ph.D. at the Institute of Computing Technology, Chinese Academy of
 Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
 
 ## News
-- 2026.07: 🎉One paper was conditionally accepted to **ASPLOS 2027**.
-- 2026.03: 🎉One paper was accepected to **ISCA 2026**.
-- 2026.02: 🎉Two papers were accepected to **DAC 2026**.
+- 2026.11: 🎉One paper was accepted to **HPCA 2027**.
+- 2026.03: 🎉One paper was accepted to **ISCA 2026**.
 - 2026.01: 🎉One paper was accepted to **ICLR 2026**.
 
 
 ## Publications
-(*: corresponding author)
+(*: corresponding author, =: Equal Contribution)
 
+- **[HPCA'27]** Baijun Zhou=, **Yintao He=***, Chenyi Wang, Cong Guo, Feng Cheng, Hai Li, Yiran Chen, "DyCache: An Adaptive Context-State Cache for Dynamic Sparse LLM Inference", to appear in International Symposium on High-Performance Computer Architecture, 2027.
 - **[ISCA'26]** Xueying Wu, Baijun Zhou, Zhihui Gao, Yuzhe Fu, Qilin Zheng, **Yintao He\***, Hai Li, "OASIS: Outlier-Aware LUT-Based GEMM with Dual-Side Quantization for LLM Inference Acceleration", in International Symposium on Computer Architecture, 2026.
 - **[ASPLOS'25] Yintao He**, Haiyu Mao, Christina Giannoula, Mohammad Sadrosadati, Juan Gómez-Luna, Huawei Li, Xiaowei Li, Ying Wang, Onur Mutlu, "PAPI: Exploiting Dynamic Parallelism in Large Language Model Decoding with a Processing-In-Memory-Enabled Computing System", in International Conference on Architectural Support for Programming Languages and Operating Systems, 2025.
 - **[TVLSI]** Peng Dang, Youna Huang, **Yintao He\***, Huawei Li, "An Emerging NVM-Based On-Chip Training Architecture with Non-Ideality Mitigation Through Bipolar Weight Distributions", to appear in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2026.
